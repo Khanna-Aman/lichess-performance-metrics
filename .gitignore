@@ -1,6 +1,8 @@
 # Jupyter Notebook
 .ipynb_checkpoints/
 *.ipynb_checkpoints
+.virtual_documents/
+*-Copy*.ipynb
 
 # Python
 __pycache__/
